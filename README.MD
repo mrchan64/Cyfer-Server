@@ -1,6 +1,6 @@
-# Cypher-Server
+# Cyfer-Server
 
-Backend and API server for Cypher Project.
+Backend and API server for Cyfer Project.
 
 ## Where to find code
 
